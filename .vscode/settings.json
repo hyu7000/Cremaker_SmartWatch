@@ -1,0 +1,30 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s3.cfg"
+  ],
+  "idf.portWin": "COM12",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "stdio.h": "c",
+    "chrono": "c",
+    "random": "c",
+    "functional": "c",
+    "bitset": "c",
+    "ratio": "c",
+    "system_error": "c",
+    "array": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "display.h": "c",
+    "main.h": "c",
+    "string.h": "c",
+    "sdkconfig.h": "c",
+    "parsecmd.h": "c",
+    "gpio.h": "c",
+    "time.h": "c"
+  }
+}
